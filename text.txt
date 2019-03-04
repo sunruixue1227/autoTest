@@ -1,3 +1,5 @@
 the first testcase
 commit to branch1
 merge to other branch
+version 1
+version 2
